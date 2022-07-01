@@ -1,0 +1,26 @@
+{
+  "name": "main-menu-nodejs",
+  "version": "0.1.0",
+  "description": "A scrollable menu for the Node.js console",
+  "main": "main-menu-nodejs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bang-Sahrul-Gunawan-Cyber/main-menu-nodejs.git"
+  },
+  "keywords": [
+    "menu"
+  ],
+  "author": "xxxxxxxxx",
+  "license": "xxxxxxxxx",
+  "bugs": {
+    "url": "https://github.com/Bang-Sahrul-Gunawan-Cyber/main-menu-nodejs/issues"
+  },
+  "homepage": "https://github.com/Bang-Sahrul-Gunawan-Cyber/main-menu-nodejs#readme",
+  "dependencies": {
+    "cjs": "^0.0.11",
+    "keypress": "^0.2.1"
+  }
+}
